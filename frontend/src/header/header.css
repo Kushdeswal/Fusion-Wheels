@@ -1,0 +1,22 @@
+
+.changehover::before{
+    content: "";
+    height:2px;
+    width: 0%;
+    position: absolute;
+    bottom:0;
+    right:5px;
+    background-color: rgba(19, 19, 20, 0.343);
+    transition: all 0.5s;
+}
+
+.changehover:hover:after{
+    width: 80%;
+}
+.changehover:hover{
+    color:rgb(56, 52, 50)
+}
+.changehover:hover:before{
+    width: 80%;
+}
+
