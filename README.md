@@ -41,5 +41,7 @@ The frontend will be accessible at http://localhost:3000 by default.
 
 The backend will be accessible at http://localhost:4000 by default.
 
-
-
+## Contect
++91 7900079052
+https://www.linkedin.com/in/kush-deswal0003
+https://kushportfolio.netlify.app/
