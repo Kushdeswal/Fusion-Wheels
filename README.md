@@ -43,4 +43,3 @@ The backend will be accessible at http://localhost:4000 by default.
 
 
 
-Happy coding !
